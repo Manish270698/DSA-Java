@@ -13,3 +13,6 @@ Data Structures and Algorithms with Java
 - [StarPattern 4](https://github.com/Manish270698/DSA-Java/blob/main/Warm_up/src/StarPatternFour.java)
 - [StarPattern 5](https://github.com/Manish270698/DSA-Java/blob/main/Warm_up/src/StarPatternFive.java)
 - [StarPattern 6](https://github.com/Manish270698/DSA-Java/blob/main/Warm_up/src/StarPatternSix.java)
+- [StarPattern 7](https://github.com/Manish270698/DSA-Java/blob/main/Warm_up/src/StarPatternSeven.java)
+- [StarPattern 8](https://github.com/Manish270698/DSA-Java/blob/main/Warm_up/src/StarPatternEight.java)
+- [StarPattern 9](https://github.com/Manish270698/DSA-Java/blob/main/Warm_up/src/StarPatternNine.java)
