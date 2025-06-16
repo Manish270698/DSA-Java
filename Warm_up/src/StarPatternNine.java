@@ -5,9 +5,7 @@
 1010
 10101
 */
-package StarPatternNine;
-
-public class js {
+public class StarPatternNine {
     public static void main(String[] args) {
         int n = 5;
 
