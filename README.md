@@ -16,3 +16,6 @@ Data Structures and Algorithms with Java
 - [StarPattern 7](https://github.com/Manish270698/DSA-Java/blob/main/Warm_up/src/StarPatternSeven.java)
 - [StarPattern 8](https://github.com/Manish270698/DSA-Java/blob/main/Warm_up/src/StarPatternEight.java)
 - [StarPattern 9](https://github.com/Manish270698/DSA-Java/blob/main/Warm_up/src/StarPatternNine.java)
+- [Count Digits in a number](https://github.com/Manish270698/DSA-Java/blob/main/Warm_up/src/CountDigits.java)
+- [Palindrome Number - Leetcode:9](https://github.com/Manish270698/DSA-Java/blob/main/Warm_up/src/PalindromeNumber.java)
+- [Reverse Integer - Leetcode:7](https://github.com/Manish270698/DSA-Java/blob/main/Warm_up/src/ReverseInteger.java)
