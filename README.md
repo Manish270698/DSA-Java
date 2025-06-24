@@ -19,3 +19,7 @@ Data Structures and Algorithms with Java
 - [Count Digits in a number](https://github.com/Manish270698/DSA-Java/blob/main/Warm_up/src/CountDigits.java)
 - [Palindrome Number - Leetcode:9](https://github.com/Manish270698/DSA-Java/blob/main/Warm_up/src/PalindromeNumber.java)
 - [Reverse Integer - Leetcode:7](https://github.com/Manish270698/DSA-Java/blob/main/Warm_up/src/ReverseInteger.java)
+
+### Array- Level 0
+
+- [Remove Duplicates - Leetcode:26](https://github.com/Manish270698/DSA-Java/blob/main/Array-Level%200/src/RemoveDuplicates.java)
