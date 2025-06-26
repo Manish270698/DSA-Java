@@ -23,3 +23,4 @@ Data Structures and Algorithms with Java
 ### Array- Level 0
 
 - [Remove Duplicates - Leetcode:26](https://github.com/Manish270698/DSA-Java/blob/main/Array-Level%200/src/RemoveDuplicates.java)
+- [Remove Element - Leetcode:27](https://github.com/Manish270698/DSA-Java/blob/main/Array-Level%200/src/RemoveElement.java)
